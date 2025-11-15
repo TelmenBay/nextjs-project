@@ -1,10 +1,10 @@
 import React from 'react'
 
-const NewUser= () => {
+const NewUser = async () => {
   return (
-    <div>
+    <>
       new user page
-    </div>
+    </>
   )
 }
 
