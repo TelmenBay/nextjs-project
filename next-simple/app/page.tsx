@@ -8,6 +8,7 @@ export default function Home() {
       <h1>hi mom</h1>
       <Link href='/users'>users list</Link>
       <ProductCard/>
+      <Link href='/todo'>todo list</Link>
     </main>
   )
 }
